@@ -1,5 +1,5 @@
 # MauiEmptyCollectionCpuIssue
-Reproduction of Empty CollectionView CPU issue when scrolling.
+Reproduction of Empty CollectionView CPU issue when scrolling. https://github.com/dotnet/maui/issues/19770
 
 To reproduce:
 1. Launch the app
